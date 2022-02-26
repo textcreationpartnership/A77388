@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brief account of the grammar-lecture, in Kings-Head Court near the Theater Royal, Drury-Lane; where children are with great ease and speed perfectly taught the Latine tongue, without being slavishly put to needless torture, or endless trouble; and nothing is demanded for their teaching, or for books, till the business is performed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77388</idno>
+            <idno type="STC">Wing B4506aA</idno>
+            <idno type="STC">ESTC R173269</idno>
+            <idno type="EEBO-CITATION">45578184</idno>
+            <idno type="OCLC">ocm 45578184</idno>
+            <idno type="VID">172139</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77388)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172139)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2615:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Brief account of the grammar-lecture, in Kings-Head Court near the Theater Royal, Drury-Lane; where children are with great ease and speed perfectly taught the Latine tongue, without being slavishly put to needless torture, or endless trouble; and nothing is demanded for their teaching, or for books, till the business is performed.</title>
+               </titleStmt>
+               <extent>8, [1] + p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.M. for the author,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: lacks all after p. [1] at end which ends in mid-sentence.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Latin language --  Study and teaching --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:172139:1" rendition="simple:additions"/>
+            <head>A brief account of the GRAMMAR-LECT<g ref="char:V">Ʋ</g>RE, in Kings-Head Court near the Theater Royal, Drury-Lane; Where Children are with great eaſe and ſpeed perfectly taught the Latine Tongue, without being ſlaviſhly put to needleſs torture, or endleſs trouble; and nothing is demanded for their Teaching, or for Books, till the buſi<g ref="char:EOLhyphen"/>neſs is Performed.</head>
+            <p>WHereas divers Gentlemen, Citi<g ref="char:EOLhyphen"/>zens, and others, call frequent<g ref="char:EOLhyphen"/>ly upon us, and either finde us not within, or at leaſt ſo bu<g ref="char:EOLhyphen"/>ſie, as that we have not time to ſatisfie them about our Method &amp;c. Concern<g ref="char:EOLhyphen"/>ing which they enquire: We have cauſed this rude and unpoliſht Sheet to be Printed, to which we refer them, and all others, at preſent, for ſa<g ref="char:EOLhyphen"/>tisfaction; which ſhall be given them as briefly, as plainly, and as fully, as the good old Axiome, <hi>Artis eſt celare Artem,</hi> will permit; for a ſecret which hath coſt us almoſt 30. Years Study, and the peruſal of all Authors whatſoever that have
+<pb n="2" facs="tcp:172139:2"/>writ on this ſubject, is not to be too far diſco<g ref="char:EOLhyphen"/>vered to every body.</p>
+            <p>They may be pleaſed therefore to underſtand, that we are not over eagerly deſirous of too many Scholars at once, <hi>Paucis contenti audito<g ref="char:EOLhyphen"/>ribus,</hi> taking but few at a time, and with our good will receiving none who are deeply inga<g ref="char:EOLhyphen"/>ged in other Schooles; our deſign being to do good to Man-kind in general, and at the ſame time to do no harm to any particular Individu<g ref="char:EOLhyphen"/>al, by taking away his Scholars, or reflecting up<g ref="char:EOLhyphen"/>on his way of Teaching, or the like.</p>
+            <p>Next, as for the Childrens coming but once or twice a Week, which ſome (who are great admirers of, and ſervants to blind cuſtome) will not bear with; they may pleaſe to take notice, that if need be, they may come oftner; thrice, four times, five times, ſix times a Week; but their coming will be only a needleſs trouble to themſelves and us; for we can with the ſame labour give them enough to ruminate upon for half a Week, as for half a Day: In ſhort, if Pa<g ref="char:EOLhyphen"/>rents ſend their Children any whether to learn, let them ſend them thither where they ſhall be well taught, whether they ſtay a long time, or not (that's all one;) but if they ſend them only to be kept out of harms way ſo long, there are enough old Women, or ordinary mean Pedants, who will do their buſineſs for two pence a Week.</p>
+            <p>As for the Price, that is reaſonable, only alter<g ref="char:EOLhyphen"/>ing
+<pb n="3" facs="tcp:172139:2"/>as the capacity of the Learner is quicker or ſlower; there being more or leſs pains to be ta<g ref="char:EOLhyphen"/>ken with him accordingly.</p>
+            <p>Then as for the Method, they may pleaſe to know, that this buſineſs (ſo much wondred at, and thought impoſſible to be done, yet) is re<g ref="char:EOLhyphen"/>ally performed by theſe means,</p>
+            <p>Firſt, By bringing the Grammer-Rules and Authors to the capacity of the Learners, and not ſcrewing and forcing their capacity to them.</p>
+            <p>Secondly, By teaching every particular Youth ſingly by himſelf (for certainty's ſake) all the Rules and Intrigues of the Language.</p>
+            <p>Thirdly, By giving them full liberty, as to the time and place of ſtudying; they hear the Lecture in few words, and then ruminate upon it <hi>when</hi> they will, and <hi>where</hi> they will, in the morning or afternoon, at home, or in the fields; but ſtay not to hinder one another by noiſe, childiſh fooleries, or the like.</p>
+            <p>Fourthly, By uſing them with all poſſible gentleneſs and lenity; there are no Rodds marching up and down the room, to fright them, and keep them in fear and bondage, all the while they are preſent; Such fear and dread neceſſarily hindering their effe<g ref="char:EOLhyphen"/>ctual tending of their buſineſs, the removal thereof, on the other ſide, muſt much further their proficiency.</p>
+            <pb n="4" facs="tcp:172139:3"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> As to the Firſt, 'Twere eaſie to prove moſt of the Rules, which are commonly taught Children, to be as hard to underſtand, as any Logick, or Metaphyſick Lecture at <hi>Oxford,</hi> and the Authors put into their hands at firſt daſh, to be as difficult as any they ever meet with afterwards; now how ſenſeleſs and irra<g ref="char:EOLhyphen"/>tional this is, let any man judge: Thoſe who have gone about to make new Grammers, they have only affronted the Canon, and ren<g ref="char:EOLhyphen"/>dred things hard and difficult before, more hard and more difficult: And why Irregular words muſt needs be pickt out to be the Ex<g ref="char:EOLhyphen"/>amples of the Declenſions and Conjugations; and why the Grammer Rules, and Memorial Verſes, ſhould be in Latine, which Language the Youth or Child is ſuppoſed not yet to un<g ref="char:EOLhyphen"/>derſtand, Wiſe perſons cannot yet diſcover the reaſon: Give Children eaſie Rules, and eaſie Books, and then ſomething will be done; but if we muſt for ever <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and becauſe Youth have all along been taught in a dull blundering way, therefore they muſt be taught ſo ſtill; Knowing men will doubt, which is moſt to be pittied, the folly of the Teacher, or the misfortune of the Learner.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> As for the Second, Children when entred into any School, are commonly put into ſome Claſs with others, and there take the ſame Part that others do, and the ſame Leſſon that
+<pb n="5" facs="tcp:172139:3"/>others do; and if they underſtand it, ſo; if not, there is no proviſion made for their help; Some things they learn over half a ſcore times, other things they learn not at all, or not ſo perfectly as to un<g ref="char:EOLhyphen"/>derſtand them; whereas (alas!) every Learner ſhould be taught the Fundamentalls by himſelf, and not take them by chance; for at that rate it may ſo happen, as that he may not attain them all his life; Give him the whole Scheme in his head, and then he will be able to goe on vigorouſly, comfort<g ref="char:EOLhyphen"/>ably and effectually, to make himſelf by degrees Maſter of the Language.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> As to the Third, Children are children, and will be playing childiſh tricks, and hinder one another while together, not only by noiſe, but alſo by wag<g ref="char:EOLhyphen"/>giſh geſtures and actions; to avoid which, they are to be together as little while as is poſſible, while they learn any thing; Indeed when they exerciſe them<g ref="char:EOLhyphen"/>ſelves in talking and diſcourſing <hi>Latine,</hi> that is ano<g ref="char:EOLhyphen"/>her caſe, and we have our times to let them come, and alſo ſtay together long enough for that purpoſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> For the Fourth, Something we ſhall add as to that Head likewiſe, though modeſty will not permit us to ſpeak what we could; Ingenuous Youths ſhould not be puniſht in ſuch a diſ-ingenuous manner as the cu<g ref="char:EOLhyphen"/>ſtome is in moſt Schools, eſpecially for no cauſe in the world, as commonly they are; <hi>Delerant reges, ple<g ref="char:EOLhyphen"/>ctuntur Achivi,</hi> the fault is ſometimes in the Teacher, ſometimes in the way of teaching; but the poor chil<g ref="char:EOLhyphen"/>dren they are beaten for not underſtanding that, which 'twas impoſſible they ſhould undreſtand, ha<g ref="char:EOLhyphen"/>ving
+<pb n="6" facs="tcp:172139:4"/>not been told it at all (it may be) or at leaſt not in that manner as for them to comprehend it: 'Tis true, we know there are divers moſt excellent, ingenuous, diſcreet and learned perſons, who do uſe their Schollars in a noble and ingenuous way; only for fear of a thing call'd <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, they have not yet entred upon the Right Eaſie and Speedy way of teaching, which we much wonder at; (theſe mens perſons we love and reſpect, nay we highly eſteem and honour them; and ſhould any line here written reflect upon, or endamage them in the leaſt, we would recant all we have ſaid, and give over this whole bu<g ref="char:EOLhyphen"/>ſineſs:) Others there are alſo of a lower ſphere, good, induſtrious, honeſt men, who bring up their Schollars in a kind and gentle way, and make no more uſe of their power of correction than juſt needs muſt; (theſe are to be commended and encouraged, and withall, ſhewn the right way of inſtructing Youth:) But in too many places we are ſure 'tis otherwiſe; Children be<g ref="char:EOLhyphen"/>ing taken and beaten moſt barbarouſly, they know not why, or wherefore, nor never ſhall; We have often ſeen innocent, ingenuous, induſtrious Youths, when they have taken pains, as it had been for their lives, and ſtudied all day and all night, till 2, or 3, a Clock in the morning, yet next day they have been ſcourged 10, 16, 20, laſhes, when no reaſon could poſſibly be aſſigned, why they ſhould be ſo inhumanely uſed; and therefore the reaſon indeed, was only and meerly be<g ref="char:EOLhyphen"/>cauſe the roguy leacherous Paedagogue had a mind to whip them: Now of all Cruelties, Leacherous cruelty is the worſt, and woe to them who fall under it; But
+<pb n="7" facs="tcp:172139:4"/>of this, as alſo of the Rogueries of ſome fluſtering Pedants, the World ſhall hear more at large ere long both in Proſe and Verſe; for, as ſome extravagant Perſons have one way of ſatisfying their luſts, others other ways: So
+<q>
+                  <l>Some School-Maſters on the Boyes breeches</l>
+                  <l>Curry their own heat and itches.</l>
+                  <bibl>Hudibr.</bibl>
+               </q>
+            </p>
+            <p>We are verily perſwaded, and have good and firme grounds to believe, that many take up that Calling, and continue in it to their old age, for that power's ſake which is moſt unjuſtly allowed them of corre<g ref="char:EOLhyphen"/>cting their Scholars, <hi>when</hi> and <hi>how</hi> they pleaſe; Now what a ſad thing it is for the ſame Perſon that de<g ref="char:EOLhyphen"/>lights in the execution, to be both Judge and Exe<g ref="char:EOLhyphen"/>cutioner, we need not ſay; To tell you what we think however, and what wiſer Men than we think like<g ref="char:EOLhyphen"/>wiſe, 'twere far better that Learning periſht out of the Earth, than ſuch horrid cruelties ſhould be per<g ref="char:EOLhyphen"/>mitted, as are daily exerciſed in divers places; it would make your hair ſtand an end, and your very heart bleed (how hardy ſoever you are) to be a Spe<g ref="char:EOLhyphen"/>ctator of what is done in that way, we know where. The common Objection to all that hath been diſ<g ref="char:EOLhyphen"/>courſed upon this head, is, That Children will not learn without being beaten, and that ſoundly too ſometimes; To which we return this Anſwer, That if it be meant Univerſally, it is a down-right falſhood; there being many Children who really love ingenuity, love their Book, and will do whatſoever is ſet them to do with a words ſpeaking; but if indeed it be
+<pb n="8" facs="tcp:172139:5"/>meant of ſome particulars, it muſt be granted to be true; but then ſuch of whom 'tis true, were better be ſet to ſome other employment, and not be put al<g ref="char:EOLhyphen"/>moſt a third part of their lives to continual ſlavery; for, to be kept always poring upon Books, which they hate, and to groan every day under the Birch, is in our opinion little better; and he at the Oare or Mines, is far the happier of the two: Some Parents indeed <hi>will</hi> have their Children to School; they <hi>will</hi> ſubject them to the humour of the Teacher, to be laſht, <hi>Ad libitum plagoſi Orbilij,</hi> juſt as thoſe poor de<g ref="char:EOLhyphen"/>luded Heathen of old, they <hi>would</hi> ſacrifice their ten<g ref="char:EOLhyphen"/>der Infants to <hi>Moloch,</hi> and other Devils; we know not whether the Children have cauſe to thank them; nay, we know hundreds who do not thank them, but afterwards in their riper years make them wiſh with akeing hearts, they had followed the Poets advice,
+<q xml:lang="lat">Praeconem facias vel Architectum.</q>
+            </p>
+            <p>This brief Account we deſire all parties con<g ref="char:EOLhyphen"/>cern'd, to accept of at preſent for their own eaſe and ours: And if any ignorant pragmatical Perſon finde fault with any thing here writ, truly we value it not; If any ſerious underſtanding Gentlemen be offended at any paſſage, we preſume upon their pardon, at long run, there being no juſt cauſe of offence given in the leaſt; We having wronged no body at all, but only in a noble and generous way (with ſome pains and more coſt) done our endeavour to have our <hi>Engliſh</hi> Youth no more abuſed, and the World no longer cheated.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>T. M.</hi> for the Author, 1667.</p>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:172139:5"/>
+            <p>TOgether with this you will receive a <hi>Specimen</hi> of a moſt laborious and uſefull <g ref="char:V">Ʋ</g>ndertaking re<g ref="char:EOLhyphen"/>commended by the Teſtimony of many Eminent perſons, as deſerving encouragement from all ſuch as are lovers of Religion and Learning. Had the Compiler's Eſtate been equal to his Induſtry, he had needed no help to have brought it forth into the World: But ſince the computed Charge ſo much exceeds his abilities, it is neceſſary to deſire the moderate aids of others, that his Labours may be ſerviceable to the publick. Knowing therefore your ability to judge and your inclinations to incourage matters of this nature, it hath been thought fit in a ſpe<g ref="char:EOLhyphen"/>cial manner to recommend the promotion of this Work to your care, and to intreat you to be active in the furthe<g ref="char:EOLhyphen"/>rance of it by procuring the Subſcriptions of your neigh<g ref="char:EOLhyphen"/>bours and acquaintance, eſpecially thoſe of the Gentry and Miniſtry, upon the Conditions here propoſed: For which, beſides the ſatisfaction you will receive in doing ſo good a work, and the expreſsion of your affections to Religion and Learning, you ſhall have the gratefull ac<g ref="char:EOLhyphen"/>knowledgment of the Compiler, and of <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
